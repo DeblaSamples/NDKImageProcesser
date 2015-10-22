@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/com.android.toolchain.gcc.1517629331/CYGWIN/delimiter=;
+environment/project/com.android.toolchain.gcc.1517629331/CYGWIN/operation=replace
+environment/project/com.android.toolchain.gcc.1517629331/CYGWIN/value=${CYGWIN}nodosfilewarning
+environment/project/com.android.toolchain.gcc.1517629331/append=true
+environment/project/com.android.toolchain.gcc.1517629331/appendContributed=true
